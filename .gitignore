@@ -1,0 +1,21 @@
+# Ignore all system files
+.DS_Store
+Thumbs.db
+
+# Ignore all log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore all compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore directories
+node_modules/
+dist/
+build/
